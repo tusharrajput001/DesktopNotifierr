@@ -1,4 +1,4 @@
-This is the Desktop Notifier App i have crreated using Python.<br>
+This is the Desktop Notifier App i have created using Python.<br>
 for GUI - i have used Tkinter library.<br>
 for Database - Used Sqlite3.<br>
 
